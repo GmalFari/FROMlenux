@@ -1,1 +1,2 @@
 Addd some lines
+This line for testing git fetch from remote repository
